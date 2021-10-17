@@ -1,7 +1,7 @@
 class Main {
  public static void main(String[] args) {
         int beerNum = 99;
-        String word = "bottles";
+        String word = " bottles";
         while (beerNum > 0)  { // While there's bottles 
             System.out.println(beerNum + " " + word + " of beer on the wall");
             System.out.println(beerNum + " " + word + " of beer");
